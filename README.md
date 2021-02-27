@@ -1,7 +1,7 @@
 ### Hi I'm Orlando Olaya! 👋
 
-<p><em>B.S. Electronic Engineering at <a href="https://www.unmsm.edu.pe/">National University of San Marcos</a>
-<p><em>M.Sc. Internet of Things at <a href="https://www.ucm.es/">Complutense University of Madrid</a>
+<p><em>B.S. Electronic Engineering from <a href="https://www.unmsm.edu.pe/">National University of San Marcos</a>
+<p><em>M.Sc. Internet of Things from <a href="https://www.ucm.es/">Complutense University of Madrid</a>
 
 [![Linkedin: oolaya1815](https://img.shields.io/badge/-oolaya1815-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oolaya1815/)](https://www.linkedin.com/in/oolaya1815/)
 
