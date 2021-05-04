@@ -10,7 +10,7 @@
 ```javascript
 const oolaya1815 = {
   pronouns: "he" | "him",
-  code: ["Python", "C", "VHDL", "LaTeX", "R" ],
+  code: ["Python", "C", "VHDL", "LaTeX", "R", "Matlab" ],
   sysadmin: ["AWS", "Docker", "Kubernetes", "Ubuntu", "CentOS"],
   machine_learning: ["Tensorflow", "Keras", "Scikit‑learn", "Pandas"],
   favorite_phrase: "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."
